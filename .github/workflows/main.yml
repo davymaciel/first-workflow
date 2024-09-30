@@ -40,4 +40,3 @@ jobs:
        run: echo "Executando o quinto passo."
      - name: Passo 6
        run: echo "Executando o sexto passo."
-  job3:
